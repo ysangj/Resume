@@ -1,3 +1,3 @@
 # Resume
 This is a Repo for my Resume.
-Updated as of August, 2017.
+Updated as of January, 2018
